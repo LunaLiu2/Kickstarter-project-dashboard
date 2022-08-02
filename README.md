@@ -11,6 +11,7 @@ This project was not created nor endorsed by Kickstarter, it is just a personal 
 Microsoft Excel
 
 ### Notes
+Lookup sheet can be used to find projects either by ID or by name.
 Raw data, pivot tables and data spec are in hidden sheets in the file.
 
 ## Credit
